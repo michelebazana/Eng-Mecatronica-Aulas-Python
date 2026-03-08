@@ -1,3 +1,3 @@
-# Aulas de algoritmos em Python
+# Algoritmos em Python
 
 Aulas de algoritmos em Python para o curso de Engenharia Mecatrônica.
